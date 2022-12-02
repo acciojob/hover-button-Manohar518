@@ -4,7 +4,8 @@
     color: white;
     border-radius: 5px;
 }
-#btn{
+#btn:hover{
+    cursor: pointer;
     background-color: yellow;
     border: none;
     color: black;
